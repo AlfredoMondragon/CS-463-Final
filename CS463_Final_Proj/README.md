@@ -1,1 +1,1 @@
-Mr. QUintana helped me debug my javascript and front end
+Mr. Quintana helped me debug my javascript and front end
